@@ -29,5 +29,6 @@ class Program
         {
             Console.Write(abc + " ");
         }
+        Console.Read();
     }
 }
